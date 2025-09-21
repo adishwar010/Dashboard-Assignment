@@ -19,13 +19,13 @@ export const revSeries = [
 
 // Bar chart (Projections vs Actuals)
 export const bars = [
-  { name: 'Mon', value: 300 },
-  { name: 'Tue', value: 220 },
-  { name: 'Wed', value: 140 },
-  { name: 'Thu', value: 260 },
-  { name: 'Fri', value: 180 },
-  { name: 'Sat', value: 230 },
-  { name: 'Sun', value: 310 },
+  { name: 'Jan', value: 300 },
+  { name: 'Feb', value: 220 },
+  { name: 'Mar', value: 140 },
+  { name: 'Apr', value: 260 },
+  { name: 'May', value: 180 },
+  { name: 'Jun', value: 230 },
+  { name: 'Jul', value: 310 },
 ];
 
 // Donut chart data
