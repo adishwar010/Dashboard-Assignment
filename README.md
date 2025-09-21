@@ -68,9 +68,6 @@ figma-dashboard/
 ├─ Dashboard.jsx
 └─ Orders.jsx
 
-arduino
-Copy code
-
 ## 🚀 Getting Started
 
 ```bash
